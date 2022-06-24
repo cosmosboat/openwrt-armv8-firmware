@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: openwrt-22.03
+  REPO_BRANCH: master
   FEEDS_CONF: ARMv8/official.feeds.conf.default
   CONFIG_FILE: ARMv8/official-gcc11.config
   DIY_P1_SH: ARMv8/diy-part1.sh
